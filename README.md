@@ -1,43 +1,31 @@
-# **NFT preview card component solution**
+# NFT Preview Card Component
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+Welcome to my implementation of the [NFT Preview Card Component challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)! This project focuses on crafting a visually appealing card using only HTML and CSS. It's a simple yet effective way to practice front-end development skills, particularly in layout, styling, and responsiveness.
 
-## **Table of contents**
+- [Live Demo of this Challenge](https://ionstici.github.io/nft-preview-card-component)
+- [Published on Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-RQ_BplDOD1)
 
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
-- [Author](#author)
+## Project Overview
 
-## **Screenshot**
+The project features an NFT preview card, displaying an image of a digital art piece, a title, a description, and additional information about the price and the creator. The card is styled to have a modern and clean design, with a focus on typography, spacing, and visual hierarchy.
 
-![](./images/screenshot.png)
+## Technologies Used
 
-## **Links**
+- **HTML:** The structure of the card is built using semantic HTML5 elements, ensuring accessibility and good SEO practices.
+- **CSS:** All styling is accomplished with pure CSS, including layout, typography, colors, and hover effects. No additional frameworks or libraries are used.
 
-- [Solution URL](https://github.com/ionStici/nft-preview-card-component)
-- [Live Site URL](https://ionstici.github.io/nft-preview-card-component)
+## Installation
 
-## **Built with**
+```bash
+git clone https://github.com/ionStici/nft-preview-card-component.git
+cd nft-preview-card-component
+live-server
+```
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox and CSS Grid
+## Credits
 
-## **Author**
+This project is based on the [Frontend Mentor](https://www.frontendmentor.io/) challenge series. The challenge provides a great opportunity to practice and hone front-end development skills.
 
-- GitHub - [@ionStici](https://github.com/ionStici)
-- Frontend Mentor - [@ionStici](https://www.frontendmentor.io/profile/ionStici)
-- Twitter - [@IonStici3](https://twitter.com/IonStici3)
+## Contributing
 
-<!-- ## **Styles**
-
-- Soft blue: hsl(215, 51%, 70%)
-- Cyan: hsl(178, 100%, 50%)
-- Very dark blue (main BG): hsl(217, 54%, 11%)
-- Very dark blue (card BG): hsl(216, 50%, 16%)
-- Very dark blue (line): hsl(215, 32%, 27%)
-- White: hsl(0, 0%, 100%)
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Font size (paragraph): 18px
-- Weights: 300, 400, 600 -->
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue.
